@@ -22,7 +22,7 @@ You can reproduce the results running the corresponding scripts.
 #### Estimation of average heart rate after noise removal.
 ![Alt text](./figures/f2b.png?raw=true "title")
 
-The frequency domain before and after the application of filters is illustrated below. The signal noise is significanlty reduced.
+#### The frequency domain before and after the application of filters is illustrated below. The signal noise is significanlty reduced.
 ![Alt text](./figures/f3a.png?raw=true "title")
 
 ![Alt text](./figures/f3b.png?raw=true "title")
