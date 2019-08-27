@@ -36,3 +36,6 @@ You can reproduce the results running the corresponding scripts.
 
 ![Alt text](./figures/f4b.png?raw=true "title")
 
+## Support 
+
+If you like this repo and find it useful, please consider (★) starring it, so that it can reach a broader audience.
